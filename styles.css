@@ -1,15 +1,10 @@
-<!doctype html>
-<html>
-<head>
-<title> Code Warriors </title>
- </head>
-<body>
-  <<h1>Let's do this!</h1>
+
   body {
-    background: url('/images/mike-yukhtenko.jpg') no-repeat center;
+    background: url('images/Cook.jpg');
     background-size: cover;
-    width: 100vw;
-    height: 100vh;
+    background-repeat:no-repeat;
+
+
     box-sizing: border-box;
     border: #ffffff 20px solid;
     padding: 0;
@@ -18,7 +13,7 @@
   }
 
   div {
-    height: 100%;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,5 +40,3 @@
     bottom: 10px;
     color: #ffffff;
   }
-</body>
-</html>
