@@ -21,7 +21,7 @@ var photographer = ['FlowerWall', 'Cook']
 
     // 2. using jquery, change the image url of the body background to the new one saved above
     $('body').css('background',imageUrl)
-    $('body').html('span',photographer)
+    // $('body').html('span',photographer)
     // EXTENSION TASK!
     // 3. Change the text of the 'span' to be that of the photographer
     //   (hint, you should re-use randomBackgroun)
