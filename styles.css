@@ -35,7 +35,7 @@
   }
 
   p {
-    position: fixed;
+    position: relative;
     bottom: 10px;
     color: #ffffff;
   }
