@@ -69,7 +69,7 @@
 body {
 color: rgb(72, 201, 176);
 font-family: arial;
-margin: 0px;
+margin: 5px;
 }
 div {
 min-height: 100vh;
@@ -88,12 +88,12 @@ img {
 display: block;
 padding: 20px;
 margin: 0 auto;
-border-radius: 130px;
+border-radius: 50px;
 }
 p {
 width: 40%;
 margin: 10vh 10vw;
-font-size: 2em;
+font-size: 3em;
 text-align: left;
 }
 a {
