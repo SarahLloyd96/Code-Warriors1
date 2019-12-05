@@ -43,7 +43,7 @@
   display: none;
   position: absolute;
   left: 0;
-  background-color: red;
+  background-color: beige;
   width: 100%;
   z-index: 1;
 }
@@ -51,7 +51,7 @@
 /* Style the subnav links */
 .subnav-content a {
   float: left;
-  color: white;
+  color: turquoise;
   text-decoration: none;
 }
 
